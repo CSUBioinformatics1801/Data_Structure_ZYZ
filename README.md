@@ -5,3 +5,6 @@
 |450203Z10| 	数据结构| 	必修| 	2.5 	|48 |	32 |	16 |
 
 All code in one [Exp.cs](https://github.com/CSUBioinformatics1801/Data_Structure_Exp/blob/master/Exp.cs)
+## Environment
+    * C# 7.1+
+    * .NET 4.3.2+
