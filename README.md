@@ -9,3 +9,5 @@ All code in one [Exp.cs](https://github.com/CSUBioinformatics1801/Data_Structure
 * C# 7.1+
 * .NET 4.3.2+
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) 15.0.6+
+* MATLAB 2020A+
+
